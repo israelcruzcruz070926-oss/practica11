@@ -1,3 +1,6 @@
+/* Israel Cruz Cruz
+Practica 11 Lab
+Programa 3 */
 #include <stdio.h>
 int resultado; //variable global
 void multiplicar(); // prototipo de la función
