@@ -1,3 +1,6 @@
+/* Israel Cruz Cruz
+Practica 11 Lab
+Programa 1 */
 #include <stdio.h>
 #include <string.h>
 // Prototipo o firma de las funciones del programa
