@@ -1,3 +1,6 @@
+/* Israel Cruz Cruz
+Practica 11 Lab
+Programa 4 */
 #include<stdio.h>
 void incremento();
 /* La variable enteraGlobal es vista por todas
