@@ -1,3 +1,6 @@
+/* Israel Cruz Cruz
+Practica 11 Lab
+Programa 2 */
 #include <stdio.h>
 void sumar(); // prototipo de la función
 int main()
